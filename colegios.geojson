@@ -1,0 +1,227 @@
+{
+    "type": "FeatureCollection",
+    "name": "MONDRI",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LICEO SAN LUIS GONZAGA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5158396, 6.3444831]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E U LAS MISERICORDIAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5186975, 6.3410797]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ESCUELA CARLOS MESA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4943507, 6.3149104]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R I JOAQUIN JIMENEZ SEPULVEDA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5168188, 6.330572]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E U PABLO VI"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5120632, 6.3400577]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COLEGIO JOSE MIGUEL DE RESTREPO Y PUERTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5047304, 6.3452769]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LICEO PBRO. BERNARDO MONTOYA GIRALDO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4986916, 6.3538666]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COLEGIO GABRIELA MISTRAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4936316, 6.3534429]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R SABANETA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4793209, 6.3494571]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R QUEBRADA ARRIBA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4704542, 6.3361463]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R EL DIVINO NIÑO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4851744, 6.3479274]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "I. E. LA TRINIDAD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5312275, 6.3350348]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "I. E. R. GRANJAS INFANTILES - SEDE PRINCIPAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4870211, 6.3750694]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R NORAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4950591, 6.3931756]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R LA LUZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4895245, 6.3817205]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "E R LA VETA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5099967, 6.3769912]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "I. E. ESCUELA NORMAL SUPERIOR MARIA AUXILIADORA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5037451, 6.3542059]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COLEGIO VILLANUEVA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5136167, 6.3484985]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "C.E. CAMPANITAS DE COLORES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4946153, 6.3544319]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COLEGIO AUTÓNOMO NUESTRA SEÑORA DE LA BUENA ESPERANZA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5174765, 6.3434667]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COLEGIO SAN RAFAEL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4941127, 6.3629356]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COLEGIO LA ASUNCION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5067946, 6.3587621]
+        }
+      }
+    ]
+  }
+  
