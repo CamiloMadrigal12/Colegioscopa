@@ -173,15 +173,16 @@
             let repoName = "/TimeLineProyectos";
             let path = window.location.pathname;
             let relativePath = path.startsWith(repoName) ? path.replace(repoName, "") : path;
-
+    
             let rootPages = ["/", "/index.html", "/embudo.html", "/formulacion.html", "/formulados.html", "/mapa.html", "/pilares.html", "/planDesarrollo.html", "/ProyectosPensados.html", "/radicados.html", "/timeLine.html"];
             let isRoot = rootPages.includes(relativePath);
-
+    
             let depth = isRoot ? 0 : relativePath.split("/").length - 2;
             let prefix = depth > 0 ? "../".repeat(depth) : "";
-
-            let headerPath = "https://github.com/CamiloMadrigal12/Colegioscopa.git";
-
+    
+            // ✅ URL directa al header.html crudo desde GitHub
+            let headerPath = "https://raw.githubusercontent.com/CamiloMadrigal12/Colegioscopa/main/header.html";
+    
             fetch(headerPath)
                 .then(response => {
                     if (!response.ok) throw new Error("No se pudo cargar el header.");
@@ -189,11 +190,11 @@
                 })
                 .then(data => {
                     document.getElementById("header").innerHTML = data;
-
+    
                     setTimeout(() => {
                         let logo = document.querySelector("#header #logo");
                         if (logo) logo.src = prefix + logo.getAttribute("data-src");
-
+    
                         let links = document.querySelectorAll("#header a[data-href]");
                         links.forEach(link => {
                             let newHref = isRoot ? link.getAttribute("data-href") : prefix + link.getAttribute("data-href");
@@ -203,6 +204,11 @@
                 })
                 .catch(error => console.error("Error cargando el header:", error));
         });
+    
+        // ✅ GeoJSON usando rutas absolutas
+        cargarGeoJSON("/barrios.geojson", estiloBarrios, barriosLayer, eventosBarrios);
+        cargarGeoJSON("/veredas.geojson", estiloVeredas, veredasLayer, eventosVeredas);
+        cargarGeoJSON("/colegios.geojson", null, colegiosLayer, eventosColegios);
     </script>
 </body>
 </html>
