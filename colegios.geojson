@@ -211,17 +211,8 @@
           "type": "Point",
           "coordinates": [-75.4941127, 6.3629356]
         }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "Name": "COLEGIO LA ASUNCION"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [-75.5067946, 6.3587621]
-        }
       }
+      
     ]
   }
   
