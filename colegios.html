@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Copacabana</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+        }
+
+        .navbar-brand img {
+            height: 80px;
+        }
+
+        .navbar {
+            padding: 10px 20px;
+        }
+
+        .navbar-nav {
+            text-align: center;
+        }
+
+        #map {
+            width: 100%;
+            height: 500px;
+            margin-top: 20px;
+            border-radius: 10px;
+            border: 1px solid #ddd;
+        }
+
+        @media (max-width: 768px) {
+            .navbar-brand img {
+                height: 60px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <div id="header"></div>
+
+    <!-- Contenedor del mapa -->
+    <div class="container mt-4">
+        <h2 class="text-center">Mapa de Copacabana</h2>
+        <div id="map"></div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <script>
+        var map = L.map("map").setView([6.350, -75.500], 14);
+
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            attribution: "© OpenStreetMap contributors"
+        }).addTo(map);
+
+        var barriosLayer = L.featureGroup().addTo(map);
+        var veredasLayer = L.featureGroup().addTo(map);
+        var colegiosLayer = L.featureGroup().addTo(map);
+
+        function estiloBarrios() {
+            return { color: "blue", weight: 2, fillOpacity: 0.4 };
+        }
+
+        function estiloVeredas() {
+            return { color: "green", weight: 2, fillOpacity: 0.4 };
+        }
+
+        function agregarEventosHover(layer, estiloOriginal) {
+            var estiloGuardado = JSON.parse(JSON.stringify(estiloOriginal()));
+            layer.on("mouseover", function () {
+                this.setStyle({ weight: 4, color: "yellow", fillOpacity: 0.6 });
+                this.bringToFront();
+            });
+            layer.on("mouseout", function () {
+                this.setStyle(estiloGuardado);
+            });
+        }
+
+        function eventosBarrios(feature, layer) {
+            var props = feature.properties || {};
+            var popupContent = `
+                <b>Nombre:</b> ${props.nombre || "Sin nombre"}<br>
+                <b>Población:</b> ${props.poblacion || "Desconocida"}<br>
+                <b>Área:</b> ${props.area || "N/A"} m²<br>
+                <b>Proyectos:</b> ${props.proyectos || "N/A"}<br>
+                <b>Personas Impactadas:</b> ${props.personasImpactadas || "N/A"}<br>
+                <a href="${props.enlace || '#'}" target="_blank">Conoce más</a>
+            `;
+            layer.bindPopup(popupContent);
+            agregarEventosHover(layer, estiloBarrios);
+        }
+
+        function eventosVeredas(feature, layer) {
+            var props = feature.properties || {};
+            var popupContent = `
+                <b>Nombre:</b> ${props.nombre || "Sin nombre"}<br>
+                <b>Población:</b> ${props.poblacion || "Desconocida"}<br>
+                <b>Área:</b> ${props.area_ha || "N/A"} ha<br>
+                <b>Proyectos:</b> ${props.proyectos || "N/A"}<br>
+                <b>Personas Impactadas:</b> ${props.personasImpactadas || "N/A"}<br>
+                <a href="${props.enlace || '#'}" target="_blank">Conoce más</a>
+            `;
+            layer.bindPopup(popupContent);
+            agregarEventosHover(layer, estiloVeredas);
+        }
+
+        function eventosColegios(feature, layer) {
+            var props = feature.properties || {};
+            var nombre = props.Name || "Sin nombre";
+            var popupContent = `
+                <b>Nombre:</b> ${nombre}<br>
+                <b>Dirección:</b> ${props.direccion || "N/A"}<br>
+                <b>Teléfono:</b> ${props.telefono || "N/A"}
+            `;
+            layer.bindPopup(popupContent);
+            layer.bindTooltip(nombre, { permanent: false, direction: "top" });
+        }
+
+        function cargarGeoJSON(url, estilo, capa, eventosCallback) {
+            fetch(url)
+                .then(response => {
+                    if (!response.ok) throw new Error(`No se pudo cargar ${url}`);
+                    return response.json();
+                })
+                .then(data => {
+                    L.geoJSON(data, {
+                        style: estilo,
+                        pointToLayer: (feature, latlng) => {
+                            return estilo ? L.circleMarker(latlng, { radius: 6, fillColor: "red", color: "#000", weight: 1, fillOpacity: 0.8 }) : L.marker(latlng);
+                        },
+                        onEachFeature: eventosCallback
+                    }).addTo(capa);
+
+                    // Ajustar vista si hay datos
+                    let bounds = L.latLngBounds();
+                    if (barriosLayer.getLayers().length) bounds.extend(barriosLayer.getBounds());
+                    if (veredasLayer.getLayers().length) bounds.extend(veredasLayer.getBounds());
+                    if (colegiosLayer.getLayers().length) bounds.extend(colegiosLayer.getBounds());
+                    if (bounds.isValid()) map.fitBounds(bounds);
+                })
+                .catch(error => console.error(`Error cargando ${url}:`, error));
+        }
+
+        cargarGeoJSON("barrios.geojson", estiloBarrios, barriosLayer, eventosBarrios);
+        cargarGeoJSON("veredas.geojson", estiloVeredas, veredasLayer, eventosVeredas);
+        cargarGeoJSON("colegios.geojson", null, colegiosLayer, eventosColegios);
+
+        var capasSuperpuestas = {
+            "Barrios": barriosLayer,
+            "Veredas": veredasLayer,
+            "Colegios": colegiosLayer
+        };
+        L.control.layers(null, capasSuperpuestas, { collapsed: false }).addTo(map);
+    </script>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Header dinámico -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            let repoName = "/TimeLineProyectos";
+            let path = window.location.pathname;
+            let relativePath = path.startsWith(repoName) ? path.replace(repoName, "") : path;
+    
+            let rootPages = ["/", "/index.html", "/embudo.html", "/formulacion.html", "/formulados.html", "/mapa.html", "/pilares.html", "/planDesarrollo.html", "/ProyectosPensados.html", "/radicados.html", "/timeLine.html"];
+            let isRoot = rootPages.includes(relativePath);
+    
+            let depth = isRoot ? 0 : relativePath.split("/").length - 2;
+            let prefix = depth > 0 ? "../".repeat(depth) : "";
+    
+            // ✅ URL directa al header.html crudo desde GitHub
+            let headerPath = "https://raw.githubusercontent.com/CamiloMadrigal12/Colegioscopa/main/header.html";
+    
+            fetch(headerPath)
+                .then(response => {
+                    if (!response.ok) throw new Error("No se pudo cargar el header.");
+                    return response.text();
+                })
+                .then(data => {
+                    document.getElementById("header").innerHTML = data;
+    
+                    setTimeout(() => {
+                        let logo = document.querySelector("#header #logo");
+                        if (logo) logo.src = prefix + logo.getAttribute("data-src");
+    
+                        let links = document.querySelectorAll("#header a[data-href]");
+                        links.forEach(link => {
+                            let newHref = isRoot ? link.getAttribute("data-href") : prefix + link.getAttribute("data-href");
+                            link.setAttribute("href", newHref);
+                        });
+                    });
+                })
+                .catch(error => console.error("Error cargando el header:", error));
+        });
+    
+        // ✅ GeoJSON usando rutas absolutas
+        cargarGeoJSON("/barrios.geojson", estiloBarrios, barriosLayer, eventosBarrios);
+        cargarGeoJSON("/veredas.geojson", estiloVeredas, veredasLayer, eventosVeredas);
+        cargarGeoJSON("/colegios.geojson", null, colegiosLayer, eventosColegios);
+    </script>
+</body>
+</html>

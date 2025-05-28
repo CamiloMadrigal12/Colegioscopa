@@ -1,0 +1,461 @@
+{
+  "type": "FeatureCollection",
+  "name": "MONDRI",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Cristiana de los Hechos Asambleas de Dios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5018509,
+          6.3499391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Bíblica Bautista de Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5117614,
+          6.3461551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Cristiana New Life Lugar de Adoración"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.513239,
+          6.343638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Cristiana Cuadrangular de Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5087183,
+          6.3460574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Pentecostal Unida de Colombia - Copacabana Central"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5098861,
+          6.3411637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "HOSSANA COLOMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5150493,
+          6.3444088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Centro De Fe y Esperanza Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5142695,
+          6.3437133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hijas de Maria Auxiliadora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5080975,
+          6.3449598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parroquia Nuestra Señora de La Asunción, Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5081958,
+          6.345602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Centro Misionero Shalom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5126839,
+          6.3451986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "iglesia cristiana Rehobot Manantial de Vida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.508748,
+          6.346723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Asamblea Apostólica Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5119001,
+          6.3453456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ministerio Verdad y Vida Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5103383,
+          6.3467025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "COMUNIDAD CRISTIANA CASA DE DIOS COPACABANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5083413,
+          6.3463153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Centro Cristiano Sendas de Paz - Asambleas de Dios"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5350277,
+          6.3340467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parroquia Nuestra Señora del Carmen, Copacabanaa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4998151,
+          6.3268908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia pentecostal unida de Colombia sede villa nueva (proyección)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5164898,
+          6.3482845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Templo Evangelístico Internacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5098948,
+          6.3464213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Cristiana El León de JUDÁ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5141099,
+          6.3430027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Manantiales De Aguas Vivas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5092721,
+          6.3391768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Adventista del Séptimo Día Eben-Ezer CENTRAL Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5154156,
+          6.3441639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Cristiana Pentecostés de Colombia del Movimiento Misionero Mundial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5071572,
+          6.3485699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Bautista Cristo Vive"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5077973,
+          6.3479891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "IPUC La María Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4967118,
+          6.3558731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Pentecostal Unida de Colombia barrio Las Vegas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.511155,
+          6.3479388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Movimiento Cristiano Por amor a ti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.508501,
+          6.345124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Templo Evangelístico Internacional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5098948,
+          6.3464213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia El Redil de Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5152648,
+          6.3437591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia Interamericana De Copacabana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.509482,
+          6.3437109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iglesia de Dios Ministerial de Jesucristo Internacional - IDMJI -"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5075604,
+          6.3475338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parroquia Santo Tomas de Villanueva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5129765,
+          6.3485361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "San Juan de la Tasajera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4956533,
+          6.3557475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Alto de La Virgen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4558998,
+          6.3270861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parroquia Nuestra Señora Del Perpetuo Socorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.533849,
+          6.3355286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parroquia Nuestra Señora de la Ternura."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5172031,
+          6.3415405
+        ]
+      }
+    }
+  ]
+}

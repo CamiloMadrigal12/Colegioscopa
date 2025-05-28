@@ -1,0 +1,538 @@
+{
+    "type": "FeatureCollection",
+    "name": "MONDRI",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ANTIOQUEÑA DE TRANSPORTES S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.514169,
+            6.344767,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ANTONIO CARDONA RAMIREZ S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.521521,
+            6.338737,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CALORCOL S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5229273,
+            6.3382062,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Carrocerias Panamericana S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5300758,
+            6.3177633,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CEIN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4954887,
+            6.3609686,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COMERCIAL Y SERVICIOS S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5142797,
+            6.34376,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CORPORACION ABURRA LIMPIO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5155181,
+            6.330815,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Grupo Cotividrios"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5283281,
+            6.3238875,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DUPANEL S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5229273,
+            6.3382062,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Electrocontrol"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5158315,
+            6.3498434,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "QBOX Soluciones Logísticas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -58.9638821,
+            -34.240743,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GASACO IMP. EXP. S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GERMISEMILLAS SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4945538,
+            6.3625816,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Industrias Haceb"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5124658,
+            6.3505663,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Laboratorio Oticoff"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5187195,
+            6.329748,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Lamitextil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5203367,
+            6.3392134,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Microminerales S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4659543,
+            6.3239016,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MOBETRANS SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4980315,
+            6.3615793,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MONTERO ROJAS LEIRO ALBERTO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5149817,
+            6.3443296,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Minconstrucciones SAS / Multiplica SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4880737,
+            6.3627555,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "petroquimicos s.a"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5068022,
+            6.3508791,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Postelectras Dishierros"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5057938,
+            6.3527905,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Rymel S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4936494,
+            6.3637709,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Serdistat"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4963575,
+            6.3603112,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Termilenio Textiles S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4800643,
+            6.3779163,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Todo Herrajes S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4791621,
+            6.3773766,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TRANSPORTE Y LOGISTICA S&M S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Transportes Cargofrío S.a.s."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4962527,
+            6.3613816,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Vitelco de Colombia S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5301361,
+            6.3362526,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Antioqueña de Combustibles, SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5134838,
+            6.3448997,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Andamios Anderson construcciones de Colombia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4947386,
+            6.3626063,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ARARY S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -68.1075796,
+            -16.4635657,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Calzado Global Colombia S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4860129,
+            6.3801652,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Grupo Delipollo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4901197,
+            6.3699738,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Whirlpool Corporation"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50896,
+            6.3512884,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INDUSTRIAS PLASTICAS FG S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.533104,
+            6.333355,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Meiker S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5277027,
+            6.3240485,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "VECAM S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4901351,
+            6.3682274,
+            0
+          ]
+        }
+      }
+    ]
+  }
