@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mapa de Copacabana</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f9;
+    }
+    #map {
+      width: 100%;
+      height: 500px;
+      margin-top: 20px;
+      border-radius: 10px;
+      border: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <div id="header"></div>
+
+  <!-- Mapa -->
+  <div class="container mt-4">
+    <h2 class="text-center">Mapa de Copacabana</h2>
+    <div id="map"></div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <script>
+    const map = L.map("map").setView([6.350, -75.500], 14);
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "© OpenStreetMap contributors"
+    }).addTo(map);
+
+    const barriosLayer = L.featureGroup().addTo(map);
+    const veredasLayer = L.featureGroup().addTo(map);
+    const pymesLayer = L.featureGroup().addTo(map); // Capa PYMES
+
+    function estiloBarrios() {
+      return { color: "blue", weight: 2, fillOpacity: 0.4 };
+    }
+
+    function estiloVeredas() {
+      return { color: "green", weight: 2, fillOpacity: 0.4 };
+    }
+
+    function agregarEventosHover(layer, estiloOriginal) {
+      const estiloGuardado = JSON.parse(JSON.stringify(estiloOriginal()));
+      layer.on("mouseover", () => layer.setStyle({ weight: 4, color: "yellow", fillOpacity: 0.6 }));
+      layer.on("mouseout", () => layer.setStyle(estiloGuardado));
+    }
+
+    function eventosBarrios(feature, layer) {
+      const p = feature.properties || {};
+      const contenido = `
+        <b>Nombre:</b> ${p.nombre || "Sin nombre"}<br>
+        <b>Población:</b> ${p.poblacion || "Desconocida"}<br>
+        <b>Área:</b> ${p.area || "N/A"} m²<br>
+        <b>Proyectos:</b> ${p.proyectos || "N/A"}<br>
+        <b>Personas Impactadas:</b> ${p.personasImpactadas || "N/A"}<br>
+        <a href="${p.enlace || '#'}" target="_blank">Conoce más</a>`;
+      layer.bindPopup(contenido);
+      agregarEventosHover(layer, estiloBarrios);
+    }
+
+    function eventosVeredas(feature, layer) {
+      const p = feature.properties || {};
+      const contenido = `
+        <b>Nombre:</b> ${p.nombre || "Sin nombre"}<br>
+        <b>Población:</b> ${p.poblacion || "Desconocida"}<br>
+        <b>Área:</b> ${p.area_ha || "N/A"} ha<br>
+        <b>Proyectos:</b> ${p.proyectos || "N/A"}<br>
+        <b>Personas Impactadas:</b> ${p.personasImpactadas || "N/A"}<br>
+        <a href="${p.enlace || '#'}" target="_blank">Conoce más</a>`;
+      layer.bindPopup(contenido);
+      agregarEventosHover(layer, estiloVeredas);
+    }
+
+    function eventosPymes(feature, layer) {
+      const nombre = feature.properties?.Name || "Sin nombre";
+      layer.bindPopup(`<b>Pyme:</b> ${nombre}`);
+      layer.bindTooltip(nombre, { permanent: false, direction: "top" });
+    }
+
+    function cargarGeoJSON(url, estilo, capa, eventosCallback) {
+      fetch(url)
+        .then(r => {
+          if (!r.ok) throw new Error(`No se pudo cargar ${url}`);
+          return r.json();
+        })
+        .then(data => {
+          const capaGeo = L.geoJSON(data, {
+            style: estilo,
+            pointToLayer: (feature, latlng) => {
+              return estilo
+                ? L.circleMarker(latlng, { radius: 6, fillColor: "red", color: "#000", weight: 1, fillOpacity: 0.8 })
+                : L.marker(latlng);
+            },
+            onEachFeature: eventosCallback
+          }).addTo(capa);
+
+          const bounds = capa.getBounds();
+          if (bounds.isValid()) map.fitBounds(bounds);
+        })
+        .catch(err => console.error(`Error cargando ${url}:`, err));
+    }
+
+    // Cargar capas
+    cargarGeoJSON("barrios.geojson", estiloBarrios, barriosLayer, eventosBarrios);
+    cargarGeoJSON("veredas.geojson", estiloVeredas, veredasLayer, eventosVeredas);
+    cargarGeoJSON("pyme.geojson", null, pymesLayer, eventosPymes); // ← AQUÍ SE CARGA PYMES
+
+    L.control.layers(null, {
+      "Barrios": barriosLayer,
+      "Veredas": veredasLayer,
+      "Pymes": pymesLayer
+    }, { collapsed: false }).addTo(map);
+  </script>
+
+  <!-- Bootstrap Bundle JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Cargar Header Externo -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const headerURL = "https://camilomadrigal12.github.io/Colegioscopa/header.html";
+
+      fetch(headerURL)
+        .then(res => {
+          if (!res.ok) throw new Error("No se pudo cargar el header.");
+          return res.text();
+        })
+        .then(html => {
+          document.getElementById("header").innerHTML = html;
+          document.querySelectorAll("#header a[data-href]").forEach(link => {
+            link.setAttribute("href", link.getAttribute("data-href"));
+          });
+        })
+        .catch(err => console.error("Error cargando el header:", err));
+    });
+  </script>
+
+</body>
+</html>

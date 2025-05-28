@@ -1,0 +1,5375 @@
+{
+    "type": "FeatureCollection",
+    "name": "Pymes",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "5INCO SOLUCIONES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.495445,
+            6.356305
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ACCESORIOS ELECTRICOS Y LAMPARAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5002771,
+            6.353145
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Adilab Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073517,
+            6.3473879
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AGENCIA DE VIAJES SAN FELIPE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506961,
+            6.346634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AGLOMERADOS SERVIMAC. C."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.505465,
+            6.349609
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AGROFERRETERO ZARZAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5041719,
+            6.4179712
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AGROPRODUCTIVO ANTIOQUEÑO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.51107,
+            6.349225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AGUA MARINA TIENDA DE ROPA Y ACCESORIOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508094,
+            6.347595
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ALEXANDER DIAZ QUICENO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5035539,
+            6.3387734
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ALGOFLEX"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.517217,
+            6.3507271
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ALMACEN FE ZETA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507001,
+            6.348372
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ALMACEN JAIME DONAL U."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5093404,
+            6.3464133
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ALMACEN MEDIAS TATY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507389,
+            6.3466134
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ALMACEN Y SASTRERIA MASAIG"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506969,
+            6.34625
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TAX COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076645,
+            6.3489965
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Alumital S.A.S Todo En Aluminio"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5069783,
+            6.3478156
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ANTIOQUIA GROUP SAS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509216,
+            6.345855
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GRANERO EL KLAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086528,
+            6.3434179
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SAMEIN Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.478603,
+            6.3773876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DISTRACOM LA TASAJERA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5079462,
+            6.3491725
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DISTRACOM SAN FRANCISCO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5214141,
+            6.3390196
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Concreacero S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4881713,
+            6.3708284
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Concreacero S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4881713,
+            6.3708284
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COPACABANACITO EL PUNTO DEL AHORRO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5090065,
+            6.3461748
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El palacio de los cosméticos"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509418,
+            6.3460747
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AQUA LUNA S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.534633,
+            6.334566
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AREPAS DE QUESO LA TIA SARA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4944069,
+            6.3558504
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AREPAS LA INIGUALABLE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5193479,
+            6.3398776
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ARTE Y COSMETICA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5053832,
+            6.3481973
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ASERRIO EL IROKO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5149405,
+            6.3445235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ASERRIO LOS LAURELES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5211759,
+            6.3387216
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ASESORIAS CONTABLES TRIBUTARIAS Y MUCHO MAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5188758,
+            6.3423011
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Asimap S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5079908,
+            6.3475153
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ATIEMPO ANTIOQUIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.517349,
+            6.3407688
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ATIKO BAR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50849,
+            6.345276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ATTICA FASHION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072689,
+            6.347296
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Automaticasas Sas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5328929,
+            6.3321379
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GANA OFICINA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5087174,
+            6.3460631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GANA OFICINA MACHADO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5355799,
+            6.3355401
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Comfama CIS Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5067818,
+            6.3474004
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Banco Agrario"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086443,
+            6.3459024
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Copacabana | Banco de Bogotá"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508986,
+            6.34612
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Bancamía Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5079119,
+            6.348123
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Bancolombia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5077794,
+            6.3458081
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Cra. 85 #41-24"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.534429,
+            6.334345
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BAR MI FAVORITO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076599,
+            6.3459694
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Centro De Eventos Santo Coyote"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494295,
+            6.3721739
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BEAUTYFACE TIENDA DE MAQUILLAJE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5098131,
+            6.3459966
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BENDECIDAS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5067052,
+            6.3464752
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COPA ESTACION DE SERVICIOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507687,
+            6.35126
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Estacion Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506448,
+            6.3511203
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BINGO FAMILIAR LOS CISNES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508437,
+            6.345047
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CENTRO NATURISTA BIONATURA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5104854,
+            6.3458181
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BIONATURA CENTRO NATURISTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5056361,
+            6.3472244
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BIOXY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5058862,
+            6.3474788
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Parque industrial Sierra grande etapa 3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4926563,
+            6.3678401
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BODEGA SUPERCARNES JH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5034092,
+            6.3504985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BODY AND COLORS AUTOMOTRIZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5045973,
+            6.348171
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Bubonem Inmobiliaria"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5064069,
+            6.3489984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CABLE UNION - COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5093005,
+            6.3462001
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Coordinadora"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4850497,
+            6.3792192
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Café Bar Faruska"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076381,
+            6.3466466
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CALI PACHANGUERO SALSA BAR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.512117,
+            6.3456947
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CALZADO RUSS INOVATION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506635,
+            6.347328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CALZADO VANESS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507389,
+            6.3466134
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CAPRICHOSS PIZZASS ML."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5070439,
+            6.348717
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Captura de vehiculos Captucol"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.514463,
+            6.3318167
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CARNES LA GARDELIANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5087029,
+            6.3418105
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CARNES MAKROPLAZA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5093734,
+            6.3458548
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CARNICERIA COLA CARNES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5098393,
+            6.3466785
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PANADERIA LA TENTACION COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5186739,
+            6.3413005
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CARNICERIA Y LEGUMBRERIA DIAZCAR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5087727,
+            6.3465592
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CARNICERIA Y LEGUMBRERIA J.R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075492,
+            6.3483672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CARNICOS BOS TAUROS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5087727,
+            6.3465592
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Carrocerias Libertad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072054,
+            6.3504755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CASA DE FUNERALES LA VIRTUD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506812,
+            6.345975
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SALICORP SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5104885,
+            6.345818
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Colegio La Asunción"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5068152,
+            6.3457171
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CELUCOMPU BM"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5172358,
+            6.3418426
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CENTRO COMERCIAL LA TASAJERA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508954,
+            6.345481
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Supermercado la 2000 Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075643,
+            6.348466
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CIGARRERIA Y CONFITERIA LA FLORIDA EXPRESS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5067886,
+            6.3473669
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DROGUERIA LA 2000 COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075492,
+            6.3483672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CIVILTEC GROUP SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509199,
+            6.343916
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COCINANDO CON TEO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.52084,
+            6.338993
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Colombian Belt Solution S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5318151,
+            6.3355077
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Colvima"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5199929,
+            6.3394983
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COMERCIALIZADORA ALEX CG"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5196781,
+            6.3389721
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Comercializadora de Alimentos Las Dulzuras"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5003099,
+            6.3267
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Compraventa el Billete"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072198,
+            6.3490009
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COMERCIALIZADORA DE ELECTRODOMESTICOS EL DOLAR COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073884,
+            6.3457294
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Donde Guaca Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50672,
+            6.34627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COMPAÑIA DE INVERSIONES INTANGIBLES Y MATERIALES S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5132209,
+            6.3416917
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Compraventa el Billete"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072198,
+            6.3490009
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Ips Médico Preventiva"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076999,
+            6.3458563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONEXCEL COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506861,
+            6.3469559
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES BLUE DEEP"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508272,
+            6.343617
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES FONNEGRA GOMEZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5061484,
+            6.3481328
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES FRANOL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5125191,
+            6.3446246
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES LUZHENA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073783,
+            6.3428266
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES NEBAYLLOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5124533,
+            6.3462544
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES POCHO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5081082,
+            6.3432575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFECCIONES SEBA S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5112518,
+            6.3475417
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONFISCAR COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.497512,
+            6.3547309
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONSTRUCTODO CON TODO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5074837,
+            6.3447684
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONSTRUCTODO CON TODO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5054862,
+            6.3495588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CONSULTORIA ADMINISTRATIVA FINANCIERA INVERSIONES Y PROFESIONALES DE CAMBIO CNGG ZONA NORTE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5079219,
+            6.344901
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Cooperativa Cooperenka"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5838485,
+            6.2539205
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COOPERATIVA FINANCIERA DE ANTIOQUIA C.F.A. AGENCIA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5081602,
+            6.3477912
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COOPERATIVA NACIONAL DE TRABAJADORES - COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50894,
+            6.345228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COOPETRABAN COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50894,
+            6.345228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MERCADO MAKROPLAZA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5093239,
+            6.3458663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICENTRO SAN FRANCISCO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5058538,
+            6.3474846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Davivienda Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086604,
+            6.3462519
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COPACABANA MOTORS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508023,
+            6.348383
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COPARKING"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507032,
+            6.3484239
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Foton Copacabana - Corautos andino"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5279002,
+            6.3239981
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CORPORACION PROSPECTIVA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5059565,
+            6.3497511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COSMOELECTRONICA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.517349,
+            6.3407688
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COSMOS 25"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5070053,
+            6.3471887
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Cooperativa Financiera Cotrafa - Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5082808,
+            6.3465201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CREACIONES CRISTY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5087314,
+            6.3467356
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CREACIONES PARANOIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5091765,
+            6.3451178
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CREACOLOR ESTAMPADOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5135181,
+            6.3451641
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CREAJEANS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506487,
+            6.346326
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CREALOGISTICA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073589,
+            6.347619
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CREDIMOVIL JJ COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075783,
+            6.348408
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Pesebrera y Criadero San Mateo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5144747,
+            6.361047
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CUSTODIA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5057032,
+            6.3464647
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CYBERPARTES Y ACCESORIOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5145033,
+            6.3482064
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CYT SEDE COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "D'MURANO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4937047,
+            6.3593157
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "D.C DISTRIBUCIÓN DE CANALES S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.518954,
+            6.3406337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DALLAS SUITE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5277235,
+            6.3362862
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DANIELA MK"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.51128,
+            6.34628
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DCM INTERGAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5129539,
+            6.349224
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DELTA SERVICIOS DE INGENIERIA S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5151591,
+            6.3419346
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DESPENSA EL MOLINO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5125622,
+            6.3493623
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DIPSA SNACKS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Panadería y repostería Marcos Pan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075995,
+            6.3460634
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DISTRIBUIDORA CAPRIPOLLO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5074558,
+            6.3456187
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DISTRIBUIDORA DE EL CAMPO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5098708,
+            6.3462602
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Distribuidora triple A #2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5327685,
+            6.3344714
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Donde Pompilio Campestre-Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4901962,
+            6.3683029
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PLASTICOS ALFAPLAST NO 1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073043,
+            6.3461777
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PLASTICOS ALFAPLAST NO 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.510712,
+            6.343439
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Droguería ARY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506053,
+            6.3488408
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Autoservicio el Platanal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5339633,
+            6.3349754
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "AVICOLA SAN LUIS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5337229,
+            6.3348949
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CIGARRERIA ROSALBITA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5140737,
+            6.344459
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DROGUERIA J Y S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506595,
+            6.347356
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "VIAJES LA FONTANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507308,
+            6.348292
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DROGUERIA Y SERVICIOS NUEVA VILLA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5134798,
+            6.3495555
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CENTRO DE ENSEÑANZA AUTOMOVILISTICA CIA SIT 4"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506197,
+            6.34935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EBANISTERÍA Y CARPINTERÍA MADAMI"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5325626,
+            6.3359919
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ECOMODA NO.2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507237,
+            6.346724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DISTRACOM LA TASAJERA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5079462,
+            6.3491725
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EDS NUEVA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507687,
+            6.35126
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Flamingo Amigo Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506836,
+            6.34724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EL BUÑUELO DE BOTERO - COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506788,
+            6.347222
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El camino lo gourmet del campo Express"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4897774,
+            6.3697583
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Rancho y Licores El Esquinazo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5066679,
+            6.3471459
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El Copacabanazo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5091654,
+            6.3461476
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El Ofertazo De Copa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5069973,
+            6.3471615
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EL OULET DE COSMETICOS # 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5084663,
+            6.3452173
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CIA SIT 4 (Copacabana)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5062518,
+            6.3492921
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EL PUNTAZO COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508614,
+            6.346347
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El punto de las mascotas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5099342,
+            6.3468341
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EL PUNTO DE LAS MASCOTAS 3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5099842,
+            6.3469048
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EL PUNTO PA´ISA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507944,
+            6.3424288
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El vivero de mi mamá"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5116791,
+            6.3269754
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Almacén de vehículos por Embargo la Principal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.51504,
+            6.3315425
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Almacén de vehículos por Embargo la Principal"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.51504,
+            6.3315425
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EMPAQUES Y SOLUCIONES N.O."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "HOME & COOK OUTLET COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507687,
+            6.35126
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ENGRANDE 192"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5094087,
+            6.3460946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Entre Especies Centro Veterinario"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5082086,
+            6.3510274
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Envia Sede Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506344,
+            6.3468352
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ESPEJOS S.A. BODEGA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4857864,
+            6.3796813
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ESPUMLATEX S.A."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5154198,
+            6.3433365
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA MIXTA EL PLATANAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5338852,
+            6.3349428
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Droguería Colsubsidio"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5062885,
+            6.3467798
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICIO FARMACEUTICO COLSUBSIDIO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Arepa de la Tercera Negra"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4868912,
+            6.329808
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ESTOPAS Y ESTOPAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50957,
+            6.34446
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EXPENDIO DE VIDRIOS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.510982,
+            6.346534
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "EXTRUSIONES M.M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5136057,
+            6.3446218
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FARMACIA NO. 17103012"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5099269,
+            6.3464155
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FARMAPLUS DROGUERIA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5092209,
+            6.3440076
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ferney muñoz"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5261127,
+            6.3372262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Los Fierros Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4972748,
+            6.3599205
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Finca Hotel Casa Vianka"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4959351,
+            6.3908509
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Finca la Cabañita"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5003263,
+            6.367067
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Finca la fe"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4859072,
+            6.3679895
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "CENTRO DE EVENTOS Y CONVENCIONES EL CASTILLO DE SANTA MARTA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4787695,
+            6.3834116
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Cabaña Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4925665,
+            6.3572373
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Chalets y Finca Villa Marina"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4910841,
+            6.3572265
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fincas la colina y el mirador"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5062771,
+            6.3703034
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FLORISTERIA JARDIN KARLA # 3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5083439,
+            6.3465619
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fonda y mirador el Relincho"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5107109,
+            6.3384556
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Libertg Hotels Spa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4883486,
+            6.3857871
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FONDA EL COCIACA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5064478,
+            6.3473447
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FONDA LA POTRANKA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.515313,
+            6.34889
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fonda Del Caballo"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4953832,
+            6.3727247
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fonda Guadalupe"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4975366,
+            6.3831229
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FREEDOM BAR COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072994,
+            6.3467308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FRENOS D Y J"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.495335,
+            6.358831
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FRETECOM #2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4994109,
+            6.3525818
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Graphic Mueble"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5104115,
+            6.3464098
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fundacion De La Mujer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5070822,
+            6.3488759
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FARMACIA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5112411,
+            6.3454268
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Sumimedical Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5122317,
+            6.3468986
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Funeraria San Juan Bautista Ltda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075485,
+            6.3455356
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Furgones Express Autopista Medellin-Bogota"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5065045,
+            6.3136311
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "G&G COSMETIC Y VARIEDADES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5071082,
+            6.3470847
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Comfama Parque Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4842336,
+            6.3754361
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GC MOTOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5344286,
+            6.3333117
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GENOX"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5135138,
+            6.3416133
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GERMAN RICARDO MORA OLARTE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5342093,
+            6.3310327
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GEROBURGUER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086759,
+            6.3455229
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GLOBAL ISO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5282727,
+            6.3350251
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GOMEZ CASTANEDA LUIS CARLOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5060774,
+            6.3441904
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GOZSALUD M"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073216,
+            6.3473856
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Granero 4 Esquinas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5332679,
+            6.3354127
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GRANERO DE LAS AMERICAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5171046,
+            6.3501388
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Estación De Servicio Texaco"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4904994,
+            6.3690956
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GRANERO MIXTO EL CHANGAY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5188856,
+            6.3415836
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GRANERO MIXTO EL PORSIACASO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5114574,
+            6.3406413
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GRANERO MIXTO LA GRAN EZQUINA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5127542,
+            6.3449542
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICENTRO LA MILAGROSA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075229,
+            6.3488435
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "enruta Centro Logístico"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4859193,
+            6.3788468
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LA PRINCIPAL S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5151065,
+            6.3309134
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "GYMPLUS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5097604,
+            6.346601
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "REDI OFICINA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5087174,
+            6.3460631
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "REDI OFICINA MACHADO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5355799,
+            6.3355401
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Outlet Haceb Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5148875,
+            6.3504357
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "HARDTORRE BAR 'CHARCUTERIA'"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5066219,
+            6.3466026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "HECTOR MARIO RODRIGUEZ ECHEVERRI"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5092722,
+            6.3465023
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "HH EVENTOS Y SERVICIOS S.A.S. COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.512425,
+            6.3498624
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "HILOFIT S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Fundacion Luchemos Por La Vida Sede Hogar Del Adulto Mayor DKCH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4979953,
+            6.3791306
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Hogar y Moda Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5084241,
+            6.3470358
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "HV TELEVISION OFICINA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507174,
+            6.347088
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "I16 COPACABANA PLAZA DE MERCADO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507603,
+            6.3460832
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INDUSTRIA DETERGENTES VELEZ GONZALEZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.53424,
+            6.336138
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Perfumeria Inspiration"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075123,
+            6.3485122
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INSTITUTO DE EDUCACIÓN PARA EL TRABAJO Y DESARROLLO HUMANO -INSTITUTO UNITECNICAS."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5018073,
+            6.3496503
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INVERSIONES BALBIN CELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.511793,
+            6.349225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Droguería Alemana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076186,
+            6.3464738
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Droguería Alemana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076186,
+            6.3464738
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Botica Junín"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5076264,
+            6.3461774
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INVERSIONES RJ COMPANY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.511793,
+            6.349225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INVERSIONES Y REPRESENTACIONES TONO A TONO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.512416,
+            6.3471027
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "INVERSIONES Y SERVICIOS AREIZA S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5061788,
+            6.3467035
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Supermercado Merkahorro"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509689,
+            6.3467691
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MERKAHORRO SAN JUAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4951281,
+            6.3549089
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "IRONFITGYM COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5152728,
+            6.3437758
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "La tienda deportiva copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5096751,
+            6.3459645
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Agencia Copacabana - JFK Cooperativa Financiera"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5083931,
+            6.3463095
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "JHON NAYLON DE COLOMBIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.512846,
+            6.344343
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "JOYERIA OROEXPRESS EURO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508758,
+            6.346869
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "JUAN METAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5081455,
+            6.3449338
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Jungheinrich Colombia - Antioquia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4946369,
+            6.3628203
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "JUNGLA SERVICIOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508538,
+            6.346315
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "KAROLINA DEL VILLA REAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5112518,
+            6.3475417
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "KEOPS CELL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.511793,
+            6.349225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SUPERMERCADO MERKAHORRO LAS VEGAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.510598,
+            6.342979
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Empanadas La Paisana Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073082,
+            6.3467842
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MINIMERCADO JUSTO Y BUENO COPACABANA PEDREGAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5152648,
+            6.3437591
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LAGIGA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5139223,
+            6.3434307
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LAUNDRY SERVICE EVOLUCION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.531711,
+            6.3359414
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LAVA LAVA AFA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5342093,
+            6.3310327
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LAVANDERIA Y TINTORERIA EFECTOS TEXTILES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5317562,
+            6.3357803
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Mercadería Justo & Bueno"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5097788,
+            6.3463612
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Lubricantes y baterias San Juan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.504613,
+            6.3479279
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LEGUMBRERIA EL PLATANAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5338046,
+            6.3345802
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tienda Mixta La Esquina Aj"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5336829,
+            6.3345352
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FRUVER Y CARNES LAS DELICIAS COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509654,
+            6.3465239
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LIBRERIA ANTIOQUEÑA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5139163,
+            6.3413907
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FRUVER Y CARNES LAS DELICIAS LAS VEGAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.510598,
+            6.342979
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LICORERA KUWAIT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5092155,
+            6.3445399
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Lili Pink"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509547,
+            6.3457262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "LOS VECINOS DE LA 50"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075858,
+            6.3432165
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "lubriMuelles."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5101364,
+            6.3468906
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Madecentro Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4969817,
+            6.3602066
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MAPROAGUAS S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5061907,
+            6.3129376
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MANJARES ADONATTA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5083289,
+            6.3472658
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MANUFACTURAS M Y E"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5124497,
+            6.3489516
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MARISCAL MERINO JAIRO HUMBERTO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5136057,
+            6.3446218
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "C Y C Soluciones Mineras S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5214863,
+            6.3464297
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MATERIALES Y EXCEDENTES DEL NORTE LIMITADA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506452,
+            6.349368
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MECENQUENADA BAR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.516936,
+            6.343511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MEGACOCINAS INTEGRALES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5343827,
+            6.3335792
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "FRUVER Y CARNES LAS DELICIAS SAN JUAN"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4951281,
+            6.3549089
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MERCAFRUVER #2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5099842,
+            6.3469048
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MERQUE MAS & MAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4967118,
+            6.3558731
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MIC COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508723,
+            6.3459329
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Minconstrucciones SAS / Multiplica SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4880737,
+            6.3627555
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MINIMERCADO LA 38 Y PULPA DE FRUTA EL BUEN JUGO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5349056,
+            6.3323754
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Monarca Gastrobar Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5138104,
+            6.3445711
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MOTOCREDITO DE COLOMBIA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5090715,
+            6.3471633
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MOTORES ELECTRICOS JP"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5340429,
+            6.3337228
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MR MOTOR´S REPUESTOS Y ACCESORIOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507358,
+            6.348709
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MS FASHION SPORT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.516983,
+            6.343124
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MUELLES Y FRENOS EL PORTAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.510092,
+            6.347201
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MULTIELECTRO COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508315,
+            6.34654
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Multipagas"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5075684,
+            6.3458835
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MUNDITEXTIL S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4953655,
+            6.3574935
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "MUNDO DIGITAL COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507413,
+            6.34687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Mundo Servicios Integrales"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5282727,
+            6.3350251
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "NAILSPART COPA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5120832,
+            6.3467635
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "BILLARES CLUB SOCIAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5074423,
+            6.3465627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "NUTRIMENTI"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Ociraga ltda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086596,
+            6.3473724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ODONTOCOSMOLASER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506998,
+            6.348077
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Olímpico Sport House - Copacabana, Antioquia"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5096324,
+            6.3462607
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ONETOO J.M."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.518016,
+            6.342772
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "OPERADORA AVICOLA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4815599,
+            6.3800398
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "OPTICA ENFOQUE VISUAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5102873,
+            6.3467116
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Club De Billares Primaveral"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5077193,
+            6.3462825
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Orquifollajes SAS."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5018714,
+            6.3551797
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PALETIZADOS NC SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.533104,
+            6.333355
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "DISCOTECA LAS CABAÑITAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5077097,
+            6.346268
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PANADERIA LIZ DAYANNA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5345918,
+            6.3339869
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Panadería Manantial"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5066274,
+            6.3472693
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Panquesudo del Norte"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5111897,
+            6.338824
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Parqueadero Y Lavadero El Lago"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5071509,
+            6.348457
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PARQUEADERO GRUAS VANEGAS ROJAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5217267,
+            6.3386477
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Parqueadero J&L sede 4"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5151833,
+            6.3322183
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Farmacia Pasteur Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086685,
+            6.3458691
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PATIOS BODEGA 8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.514741,
+            6.3489588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PELUQUERÍA IRMA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5081019,
+            6.348319
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PELUQUERIA YENNY DE COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5084663,
+            6.3452173
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PINTUFERRETERO R & R"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5070037,
+            6.3487423
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PINTUOBRAS-IGNACIO VELASQUEZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.513932,
+            6.34973
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PLASMOLD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5034092,
+            6.3504985
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Porcicarnes Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5099611,
+            6.3469499
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "POTTERY PATCH"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.494633,
+            6.3628045
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PREFABRICADOS G. E. C."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.509423,
+            6.346318
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Cursos de Alturas en Medellín - Preseguridad"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4868186,
+            6.3879996
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "productos alimenticios de la casa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.497379,
+            6.354316
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PRODUCTOS MICROCELULARES DE COLOMBIA S.A."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5154198,
+            6.3433365
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Pinturas el aguila"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4964335,
+            6.3602773
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PUNTO DE COMPRAS DE CAFÉ DE COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5043776,
+            6.3481795
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "PUNTO PROCESO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4939091,
+            6.3577701
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Puro Cuero"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4937213,
+            6.3595623
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "El Rancherito - Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4952027,
+            6.3614844
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "REFRESCOS VASQUEZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5077083,
+            6.3460494
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "REMATES LOS JIMENEZ"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507391,
+            6.347549
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "REPUESTOS MAROEL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5073029,
+            6.3485666
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "RESTAURANTE GOURMET LUCY"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507523,
+            6.3443553
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "COMIDAS RAPIDAS LA MONA & LA NANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5048235,
+            6.3489968
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Topografía y Suelos SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506591,
+            6.3465429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tiendas D1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4984633,
+            6.3593828
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "RIVERAS GRAFICAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5088649,
+            6.3425536
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ROAD SHOTS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50672,
+            6.34627
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ROCAFIN DEMOLICIONES S.A.S."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5147343,
+            6.3486849
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA D1 - Copacabana Machado 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5335226,
+            6.3340204
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SAJHOMA - LITOGRAFIA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507453,
+            6.345816
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SALA DE BELLEZA DORIS ET"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5074732,
+            6.3474965
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tiendas D1 Copacabana #3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5077803,
+            6.3482071
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SALSAMENTARIA JARDIN DEL SITIO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5071877,
+            6.3467259
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA D1 COPACABANA ASUNCION"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5152181,
+            6.3442086
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA D1 COPACABANA FATIMA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.504613,
+            6.3479279
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SATELITAL Y SERVICIOS FENIX SAS 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5086998,
+            6.3449433
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Scania, Taller de servicio"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5277921,
+            6.3239081
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SER COMUNICACIONES S.A NO.1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506861,
+            6.3469559
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tiendas D1 Copa San Juan"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5017076,
+            6.3500142
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICIO ELECTRICO MONTACARGAS Y VEHICULOS MIGUEL GALLEGO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072053,
+            6.3504755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICIOS GR SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5089986,
+            6.3438728
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICIOS TECNICO INDUSTRIAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5118153,
+            6.3476654
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVICIOS Y DISTRIBUCIONES C.S.A"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5278163,
+            6.3358312
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SERVIMOTO VALU COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5121821,
+            6.3454905
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SIANCO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5261127,
+            6.3372262
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SOCIEDAD IMPORTADORA Y DISTRIBUIDORA JAPAN Y RACING SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.48151,
+            6.40108
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SOLUPLAST NORTE"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.530702,
+            6.336702
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Soluproyectos De Carpintería J.l.b S.a.s"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5430352,
+            6.3410449
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Special Tours Online"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5065712,
+            6.3464588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Stop Jeans | Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5024227,
+            6.3582275
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "STUDIO CAMPLUSS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5069566,
+            6.3497407
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SUMIDENTAL COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5120851,
+            6.3469912
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SUNSHINECOL1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4986121,
+            6.3546529
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SUPER 198"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5043589,
+            6.347927
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "SUPPLIER CENTER SAS AGENCIA COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5172747,
+            6.3501144
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "T.S.A GLOBAL"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5069525,
+            6.3476811
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TALLER DE MECANICA AUTOMOTRIZ WR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5064489,
+            6.3495511
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TALLER INDUSTRIAL CARMONA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5201977,
+            6.3394215
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tecnicel"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5082142,
+            6.348128
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TECNOHOME"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5119288,
+            6.3454727
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Flamingo Amigo Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.506836,
+            6.34724
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TEJAS CRISTAL MEDELLIN COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507757,
+            6.347474
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "THE URBAN BARBER SHOT"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.534508,
+            6.335096
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "KOAJ BASIC COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508288,
+            6.3466352
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA DE CARNES CARMELO ARANGO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.507248,
+            6.346793
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tienda de Carnes Remolino"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.508912,
+            6.3473689
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA DE LOS SUEÑOS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.50587,
+            6.3474817
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA MIXTA NR"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.534653,
+            6.335473
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDA MIXTA RUBEN DARIO GAVIRIA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4976317,
+            6.3542906
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TIENDAS Y ABARROTES LOS PRIMOS 2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4967118,
+            6.3558731
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Tierra Querida Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5061775,
+            6.3465235
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TORTAS LAS NEGRAS ENVINADAS DE BUENOS AIRES"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5072595,
+            6.3471261
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TOUR DEL CAFE Y LAS FRUTAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5064233,
+            6.349308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Training Box Elite"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5104939,
+            6.3466207
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TRANS URGENSALUD S.A.S"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5126404,
+            6.3444617
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TROPY BURGUER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5091918,
+            6.3460403
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Supermercado FRUVER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5096323,
+            6.3462607
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "TU FRUVER COPACABANA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5093239,
+            6.3458663
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "URBANCORNER"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5117322,
+            6.346165
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "VERTIGO COPA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5085983,
+            6.3449565
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "XTREME VIDEO"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5063667,
+            6.3491888
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Yoyo Jeans | Copacabana"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5069495,
+            6.3469654
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "YXUS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.5064776,
+            6.345106
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Zeuss Planta Mayorista"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -75.4835093,
+            6.3768174
+          ]
+        }
+      }
+    ]
+  }
