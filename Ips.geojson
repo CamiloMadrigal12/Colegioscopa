@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "name": "IPS",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Centro Clinico del Norte SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5172816, 6.3424427]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "Corporacion para el avance en salud, AVANSALUD"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.506914, 6.347373]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "ESE HOSPITAL SANTA MARGARITA"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.5174, 6.3426]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "Name": "IPS Integral Salud Antioquia SAS"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.4809572, 6.3434293]
+        }
+      }
+    ]
+  }
+  
